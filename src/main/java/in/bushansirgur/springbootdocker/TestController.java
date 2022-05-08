@@ -8,6 +8,6 @@ public class TestController {
 
     @GetMapping("/")
     public String test() {
-        return "Hello Welcome to Docker!!!!!";
+        return "Setup the CI/CD";
     }
 }
